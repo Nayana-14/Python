@@ -29,9 +29,6 @@ strategy:
 
 
 
-steps:
-
-
 - task: UsePythonVersion@0
 
 
